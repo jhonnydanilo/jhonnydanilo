@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @jhonnydanilo
-- 🌱 Frontend Developer
+- 🌱 Javascript Developer
 - 📫 You can reach me on jhonnydansm@gmail.com or https://www.linkedin.com/in/jhonnydanilo/
 
 <!---
